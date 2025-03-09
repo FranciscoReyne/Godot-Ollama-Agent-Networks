@@ -493,3 +493,6 @@ El sistema resultante te permitirá construir redes complejas de agentes LLM que
 
 Game-Driven Domain Design (GDDD)
 El GDDD (Game-Driven Domain Design) es una adaptación del Domain-Driven Design (DDD) específicamente para el desarrollo de videojuegos. Este enfoque se centra en modelar el dominio del juego de manera que refleje fielmente la realidad del mundo del juego y sus mecánicas, utilizando un lenguaje ubicuo entre diseñadores y programadores. El GDDD pone énfasis en crear sistemas modulares que representen entidades del juego, sus comportamientos e interacciones de forma intuitiva y mantenible.
+
+
+Buena suerte!!
