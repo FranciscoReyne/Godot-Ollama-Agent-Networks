@@ -442,4 +442,3 @@ Con esta implementación detallada, tendrás un editor visual completo donde pue
 - Crear conexiones entre agentes
 - Editar las propiedades de cada agente en el inspector
 
-¿Hay alguna parte específica de esta implementación que quieras que explique con más detalle?
